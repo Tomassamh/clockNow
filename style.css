@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #444;
+    color: green;
+    text-align: center;
+}
+#clock{
+    display: inline-block;
+    width: 600px;
+    height: 250px;
+    margin: auto;
+    margin-top: 125px;
+    font-size: 75px;
+}
+.banner {
+    position: fixed;
+    top: 12px;
+    left: 0;
+    width: 100%;
+    /* height: 50px;  */
+    color: rgb(0, 153, 255);
+    font-size: 40px;
+    text-align: center;
+    line-height: 50px;
+}
